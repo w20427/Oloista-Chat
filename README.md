@@ -1,0 +1,5 @@
+![profile chat](https://github.com/w20427/Oloista-Chat/assets/94058941/2604f515-715a-45f9-a436-09a99253ce8d)
+![otp2](https://github.com/w20427/Oloista-Chat/assets/94058941/23f09438-c97b-43fa-94d2-b05d67b212bf)
+![otp](https://github.com/w20427/Oloista-Chat/assets/94058941/5abcd3a8-f085-4607-9383-6f1e7d932536)
+![1709752988377](https://github.com/w20427/Oloista-Chat/assets/94058941/20c29185-2e0c-4058-9f7e-42550c81ff7c)
+![1709752989367](https://github.com/w20427/Oloista-Chat/assets/94058941/cca09350-1647-411c-b20d-2eac612ccab6)
