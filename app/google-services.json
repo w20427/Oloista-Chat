@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792281010741",
+    "project_id": "oloista-chat-app",
+    "storage_bucket": "oloista-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792281010741:android:f0bd33789fbd95cb46177c",
+        "android_client_info": {
+          "package_name": "com.amitwc.oloistachat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxRVep7wMxVMoXqRRcCFB7qW39jCM2Z-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
